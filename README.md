@@ -1,6 +1,6 @@
 # 🌍 Wealth of Nations: Data Visualization Project  
 
-This project combines my love for data and creativity by analysing the *Wealth of Nations* dataset to tell a visual story of global wealth.In this project, I explored and analysed global economic data, transformed it using **Excel**, and created an interactive, colour-blind-friendly dashboard in **Tableau** to highlight key insights about the top 20 countries and I’m excited to share it with you! 🎉 
+This project combines my love for data and creativity by analysing the *Wealth of Nations* dataset to tell a visual story of global wealth. In this project, I explored and analysed global economic data, transformed it using **Excel**, and created an interactive, colour-blind-friendly dashboard in **Tableau** to highlight key insights about the top 20 countries and I’m excited to share it with you! 🎉 
 ![Screenshot (11)](https://github.com/user-attachments/assets/0c8c4520-b436-45d7-9c52-03ab5ac8a6f8)
 
 ---
@@ -20,7 +20,7 @@ This project dives into the *Wealth of Nations* dataset to uncover global trends
 - **Data Cleaning**: Like giving your data a spa day—removing inconsistencies, formatting, making it sparkle, and ensuring accuracy ✨.  
 - **Data Visualisation**: Created pivot tables and bar charts to summarise and visualise key metrics.  
 - **Advanced Sorting**: Identified the top 20 highest-ranking countries for focused analysis.
-- **Custom Charts**: Added some flair to the visuals with colors and creative touches 🎨.  
+- **Custom Charts**: Added some flair to the visuals with colours and creative touches 🎨.  
 
 
 ### 🔴 Tableau Expertise:  
